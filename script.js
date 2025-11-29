@@ -68,7 +68,7 @@ function hitung() {
               borderColor: 'rgba(128, 128, 128, 1)',
               backgroundColor: 'rgba(93, 93, 93, 0.2)',
               borderWidth: 2,
-              tension: 0.4,
+              tension: 0,
               fill: true,
               pointRadius: 4
           }]
