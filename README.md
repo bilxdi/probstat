@@ -10,3 +10,4 @@ Analisis Penjualan Mingguan adalah aplikasi berbasis web yang menghitung analisi
 4. Menampilkan grafik dari perhitungan selama 7 hari
 
 ## Link Aplikasi 📱
+https://bilxdi.github.io/probstat/
